@@ -1,5 +1,5 @@
 # Claim–Evidence Analysis for Election Vulnerabilities
-
+**[Download the full reference document (PDF)](claim-evidence_elections_v1.0.pdf)**  
 This repository contains a reference text describing a structured approach for classifying
 the evidentiary support for specific election-related claims.
 
